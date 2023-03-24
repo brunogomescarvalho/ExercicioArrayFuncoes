@@ -1,0 +1,15 @@
+C:\AP\Modulo_1\08 - Arrays-Funcoes-Estruturado\ExercicioArray\bin\Debug\net6.0\ExercicioArray.exe
+C:\AP\Modulo_1\08 - Arrays-Funcoes-Estruturado\ExercicioArray\bin\Debug\net6.0\ExercicioArray.deps.json
+C:\AP\Modulo_1\08 - Arrays-Funcoes-Estruturado\ExercicioArray\bin\Debug\net6.0\ExercicioArray.runtimeconfig.json
+C:\AP\Modulo_1\08 - Arrays-Funcoes-Estruturado\ExercicioArray\bin\Debug\net6.0\ExercicioArray.dll
+C:\AP\Modulo_1\08 - Arrays-Funcoes-Estruturado\ExercicioArray\bin\Debug\net6.0\ExercicioArray.pdb
+C:\AP\Modulo_1\08 - Arrays-Funcoes-Estruturado\ExercicioArray\obj\Debug\net6.0\ExercicioArray.csproj.AssemblyReference.cache
+C:\AP\Modulo_1\08 - Arrays-Funcoes-Estruturado\ExercicioArray\obj\Debug\net6.0\ExercicioArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\AP\Modulo_1\08 - Arrays-Funcoes-Estruturado\ExercicioArray\obj\Debug\net6.0\ExercicioArray.AssemblyInfoInputs.cache
+C:\AP\Modulo_1\08 - Arrays-Funcoes-Estruturado\ExercicioArray\obj\Debug\net6.0\ExercicioArray.AssemblyInfo.cs
+C:\AP\Modulo_1\08 - Arrays-Funcoes-Estruturado\ExercicioArray\obj\Debug\net6.0\ExercicioArray.csproj.CoreCompileInputs.cache
+C:\AP\Modulo_1\08 - Arrays-Funcoes-Estruturado\ExercicioArray\obj\Debug\net6.0\ExercicioArray.dll
+C:\AP\Modulo_1\08 - Arrays-Funcoes-Estruturado\ExercicioArray\obj\Debug\net6.0\refint\ExercicioArray.dll
+C:\AP\Modulo_1\08 - Arrays-Funcoes-Estruturado\ExercicioArray\obj\Debug\net6.0\ExercicioArray.pdb
+C:\AP\Modulo_1\08 - Arrays-Funcoes-Estruturado\ExercicioArray\obj\Debug\net6.0\ExercicioArray.genruntimeconfig.cache
+C:\AP\Modulo_1\08 - Arrays-Funcoes-Estruturado\ExercicioArray\obj\Debug\net6.0\ref\ExercicioArray.dll
