@@ -10,7 +10,7 @@ namespace ExercicioArray
     {
 
         public static int[]? ArrayNumerosInteiros;
-        public static int[]? ArrayNumerosNegativo;
+        public static int[]? ArrayNumerosNegativos;
         public static int[]? ArrayMaioresNumeros;
         public static int MaiorValor;
         public static int MenorValor;
@@ -102,20 +102,20 @@ namespace ExercicioArray
         {
             int tamanhoArray = CalcularTotalNumerosNegativos();
 
-            ArrayNumerosNegativo = new int[tamanhoArray];
+            ArrayNumerosNegativos = new int[tamanhoArray];
 
-            for (int j = 0; j < tamanhoArray; j++)
-            {
+            int j = 0;
+
                 for (int i = 0; i < ArrayNumerosInteiros!.Length; i++)
                 {
                     if (ArrayNumerosInteiros[i] < 0)
                     {
-                        ArrayNumerosNegativo[j] = ArrayNumerosInteiros[i];
+                        ArrayNumerosNegativos[j] = ArrayNumerosInteiros[i];
+                        j++;
                     }
                 }
-            }
-
-            return ArrayNumerosNegativo;
+            
+            return ArrayNumerosNegativos;
         }
 
 
