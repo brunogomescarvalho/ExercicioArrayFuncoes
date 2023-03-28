@@ -60,31 +60,31 @@ namespace ExercicioArray
 
         private static void MostrarOsValoresNegativos()
         {
-            MostrarTitulo("--- Encontrar Valores Negativos ---\n");
+            MostrarTitulo("--- Mostrar Valores Negativos ---\n");
             AcoesDoSistema.MostrarItensArray(AcoesDoSistema.EncontrarOsValoresNegativos());
         }
 
         private static void MostrarOsTresMaioresValores()
         {
-            MostrarTitulo("--- Encontrar os Três Maiores Valores ---\n");
+            MostrarTitulo("--- Mostrar os Três Maiores Valores ---\n");
             AcoesDoSistema.MostrarItensArray(AcoesDoSistema.EncontrarOsTresMaioresValores());
         }
 
         private static void MostrarValorMedio()
         {
-            MostrarTitulo("--- Encontrar Valor Médio ---");
+            MostrarTitulo("--- Mostrar Valor Médio ---");
             EnviarMensagem($"O valor médio é o {AcoesDoSistema.EncontrarValorMedio()}");
         }
 
         private static void MostrarMenorValor()
         {
-            MostrarTitulo("--- Encontrar Menor Valor ---");
+            MostrarTitulo("--- Mostrar Menor Valor ---");
             EnviarMensagem($"O menor valor é o {AcoesDoSistema.EncontrarMenorValor()}");
         }
 
         private static void MostrarMaiorValor()
         {
-            MostrarTitulo("--- Encontrar Maior Valor ---");
+            MostrarTitulo("--- Mostrar Maior Valor ---");
             EnviarMensagem($"O maior valor é o : {AcoesDoSistema.EncontrarMaiorValor()}");
         }
 
